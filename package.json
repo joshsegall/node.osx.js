@@ -1,0 +1,20 @@
+{
+  "name": "osx",
+  "description": "A Mac OS X library for NodeJS to get system information.",
+  "keywords": ["macos", "osx", "process", "users", "netstat", "system", "sysctl"],
+  "version": "0.1.0",
+  "author": "Josh Segall (https://githuib.com/joshsegall)",
+  "main": "osx",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/joshsegall/osx.js.git"
+   },
+   "licenses": [
+     {
+        "type": "MIT"
+     }
+   ],
+   "bugs": {
+     "url" : "https://github.com/joshsegall/osx.js/issues"
+   }
+}
