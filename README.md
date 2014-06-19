@@ -1,7 +1,7 @@
 OSX
 ===
 
-This module provides access to Mac OS X system information for access in Javascript via Node.js
+This module provides access to Mac OS X system information for access in Javascript via node.js
 
 It provides a set of functions that allow programmatic access to information that you might find from the Mac Activity Monitor or linux command line utilities such as ps, top, df, who, dscl, and netstat.
 
@@ -12,7 +12,7 @@ If you're looking for this type of stuff you should also check out the standard 
 Dependencies
 ------------
 
-This was specifically developed for Mac OS X, though it could be extended to work on other systems, and might work on them already. I've only tested it on Darwin 11.2.
+This was specifically developed for Mac OS X, though it could be extended to work on other systems, and might work on them already. I've only tested it on Darwin 11.2 and various versions up to 13.2.0
 
 This module relies on APIs that Apple considers unsupported, such as `sysctl` and its extensions, which are subject to change from release to release.
 
